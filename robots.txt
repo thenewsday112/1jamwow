@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thenewsday112.github.io/43mb/sitemap.xml
+Sitemap: https://thenewsday112.github.io/jam1/sitemap.xml
